@@ -1,3 +1,23 @@
-.name {
-    color: red;
+.color-bg {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.align-items-center {
+    padding: 20px 40px;
+}
+
+.price {
+    color: #FF136F;
+    margin-bottom: 30px;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF267B, #FF5599);
+    padding: 10px 20px;
+    border-radius: 5px;
 }
